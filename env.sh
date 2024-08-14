@@ -1,2 +1,2 @@
 #!/bin/bash
-export N8N_VERSION=1.54.2
+export N8N_VERSION=0.181.2
