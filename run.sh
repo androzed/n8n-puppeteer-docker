@@ -6,4 +6,4 @@ docker run -it --rm \
 	--name n8n \
 	-p 5678:5678 \
 	-v ~/.n8n:/home/node/.n8n \
-	n8n-puppeteer:1.53.2
+	n8n-puppeteer:0.181.2
